@@ -4,3 +4,4 @@ Task 2 is a script that changes the working directory to the user’s home direc
 Task 3 is a script that displays the current directory contents in a long format
 Task 4 is a script that displays the current directory contents, including hidden files (starting with .). Use the long format.
 Task 5 is a script that displays the current directory contents in long format, with user and group IDs displayed numerically and hidden files (starting with .)
+Task 6 is a script that creates a directory named my_first_directory in the /tmp/ directory
