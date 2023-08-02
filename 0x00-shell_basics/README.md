@@ -34,3 +34,6 @@ Task 14 creates a script that copies all the HTML files from the current working
 Task 15 creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
 Task 16 is a script that deletes all files in the current working directory that end with the character ~.
+
+Task 17 is a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
